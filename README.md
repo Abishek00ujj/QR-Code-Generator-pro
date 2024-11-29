@@ -3,8 +3,8 @@ Here’s a professional `README.md` file for your QR Code Generator project:
 ```markdown
 # QR Code Generator
 
-🚀 **Live Project:** [QR Code Generator](<Your Live Project Link>)  
-📂 **Repository:** [GitHub Link](<Your GitHub Repository Link>)  
+🚀 **Live Project:** https://qr-code-generator-pro-nine.vercel.app/
+📂 **Repository:** https://github.com/Abishek00ujj/QR-Code-Generator-pro
 
 ## 🌟 Overview
 The **QR Code Generator** is a user-friendly web application built with modern technologies to generate QR codes effortlessly. It is designed to cater to all users, offering a sleek and responsive design for seamless interaction. The project is fully deployed and live, making it accessible anytime, anywhere.  
